@@ -1,0 +1,1 @@
+iverilog -o project data_path.v instr_mem_modi.v  reg_bank.v suppl_modules.v alu_ctrl.v Alu_unit.v control_unit.v data_mem.v testing.v
